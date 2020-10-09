@@ -4,6 +4,7 @@ This project is Attendance clock using Begalsebone as kernel with a web server
 
 # Features
 - Using CURL
+- Using Buzzer
 - Using HD44780 LCD 
 - Using RFID-RC522
 - Apache server
