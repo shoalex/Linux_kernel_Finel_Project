@@ -12,9 +12,13 @@ This project is Attendance clock using Begalsebone as kernel with a web server
 
 <a href="https://www.youtube.com/watch?v=FBX4X6v5hD4&list=PLmYrZEC7cFFKklUIl6LtbvcKDFTcl_0YX&index=11"> Click Here</a>
 
-### SRD
+### Software Description
 
-<a href="https://drive.google.com/file/d/17LCe0ZBViBdYBx1dsYuvT0iAnWJGNQ0P/view?usp=sharing"> Click Here</a>
+<a href="https://drive.google.com/file/d/1ESO7WMBxrKWc_xe8N7Zu5AUpIAJ2KRAs/view?usp=sharing"> Click Here</a>
+
+### General Flow
+
+<a href="https://drive.google.com/file/d/1cN-gTrdZyERBY_Hso4azF_9qNTYyxtOq/view?usp=sharing"> Click Here</a>
 
 ### Prerequisites
 
